@@ -1,0 +1,51 @@
+body{
+font-family:"Special Elite",cursive;
+background-color: lightpink;
+}
+.header_div{
+background-color: white;
+color: red;
+}
+.header_div img{
+width: 100px;
+}
+.main_div{
+background-color: rgb(255, 225, 229);
+padding: 10px;
+margin-top: 15px;
+border: 5px solid white;
+}
+.main_div label{
+background-color: white;
+width: 300px;
+padding: 10px;
+margin-bottom: 0px;
+box-shadow: 5px 5px 18px white;
+}
+.main_div button{
+width: 300px;
+font-size: 15px;
+box-shadow: 5px 5px 18px white;
+border: 1px solid;
+}
+.footer_div{
+margin-bottom: 50px;
+}
+.footer_div h4{
+background-color: white;
+border-radius: 10px;
+padding: 5px;
+box-shadow: 5px 5px 18px white;
+}
+.footer_div img{
+width: 70px;
+}
+.copy_right_footer{
+position: fixed;
+color: grey;
+bottom: 0px;
+width: 100%;
+background-color: rgb(132, 230, 225);
+line-height: 3;
+text-align: center;
+}
